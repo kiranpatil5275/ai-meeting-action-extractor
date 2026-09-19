@@ -1,6 +1,6 @@
 # AI Meeting Action-Item Extractor
 
-A complete, medium-level, **fully offline-capable** project that converts meeting transcripts into structured action items.
+A complete **fully offline-capable** project that converts meeting transcripts into structured action items.
 
 **Output schema per action item:**
 - `task` – short description of the work
