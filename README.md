@@ -109,14 +109,13 @@ This loads the 20 sample transcripts + gold annotations and reports:
 - Hyperparameter tuning → see `src/extractor.py` (thresholds are configurable)
 
 
-##(future improvements)
----
+##Future improvements
 1.Speaker Diarization--Automatically detect “who spoke when” from audio (using pyannote.audio) so you don’t need pre-written speaker names
 2.Audio → Text Support--Upload .mp3 / .wav meeting recordings and convert them to transcript using Whisper (offline)
 3.Better Date Understanding--Improve relative dates like “next Friday”, “end of next week”, “in 3 days”
 4.Edit & Confirm UI--Let users edit extracted action items directly in the Streamlit table before exporting
 5.Save History--Save previous extractions so users can go back and review old meetings
----
+
 
 ## License
 MIT – free for any use.
