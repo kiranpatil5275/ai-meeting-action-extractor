@@ -1,0 +1,16 @@
+[Meeting: Infrastructure Cost Review – Sept 21, 2024]
+Participants: Dana Foster (Cloud Ops), Elliot Grant (Finance), Fiona Walsh (Engineering)
+
+Dana Foster: Cloud spend is 22% over budget. We need immediate action.
+
+Elliot Grant: Dana, can you produce the detailed cost breakdown by service by September 26th?
+
+Dana Foster: Yes. Elliot, please identify the top five cost optimization opportunities by September 28th.
+
+Elliot Grant: On it. Fiona, can you right-size the staging clusters by October 2nd?
+
+Fiona Walsh: Will do. I'll also implement the reserved instance plan by October 5th.
+
+Dana Foster: Fiona, please set up budget alerts in the monitoring dashboard by September 25th.
+
+Fiona Walsh: Done. Let's review the numbers again next week.

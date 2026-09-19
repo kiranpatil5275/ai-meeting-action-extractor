@@ -1,0 +1,16 @@
+[Meeting: Release Readiness – Sept 19, 2024]
+Participants: Iris Patel (Release Manager), Jack Thompson (QA Lead)
+
+Iris Patel: v2.3 is almost ready. We need a clean ship.
+
+Jack Thompson: Iris, can you ship the v2.3 release candidate by September 24th?
+
+Iris Patel: Yes. Jack, please write the release notes by September 23rd.
+
+Jack Thompson: Done. I'll also coordinate beta tester feedback collection by September 25th.
+
+Iris Patel: I need to run the full regression suite by September 22nd and update the changelog and version tags by the 24th.
+
+Jack Thompson: And I'll prepare the rollback plan by September 23rd.
+
+Iris Patel: Excellent. We're in good shape.

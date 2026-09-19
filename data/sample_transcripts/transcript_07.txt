@@ -1,0 +1,16 @@
+[Meeting: Design Review – Sept 19, 2024]
+Participants: Chloe Nguyen (Design Lead), Ethan Park (UX Researcher)
+
+Chloe Nguyen: Homepage redesign is the top priority this sprint.
+
+Ethan Park: Chloe, can you design the new homepage mockups by September 28th?
+
+Chloe Nguyen: Yes. Ethan, please conduct the user testing sessions by October 3rd.
+
+Ethan Park: Will do. I'll also prepare the design handoff document by September 30th.
+
+Chloe Nguyen: I need to implement the accessibility improvements by October 7th.
+
+Ethan Park: And Chloe, can you align with product on the feature priorities by September 25th?
+
+Chloe Nguyen: Already on my list. Thanks Ethan.

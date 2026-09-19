@@ -1,0 +1,16 @@
+[Meeting: Customer Success Escalation – Sept 21, 2024]
+Participants: Ava Morgan (CS Lead), Blake Turner (Support), Cameron Ellis (Product)
+
+Ava Morgan: We have three enterprise accounts at risk this week. Need clear owners.
+
+Blake Turner: Ava, can you prepare the executive summary for Account Alpha by September 24th?
+
+Ava Morgan: Yes. Blake, please schedule the recovery call with Account Beta by September 23rd.
+
+Blake Turner: Will do. I'll also draft the compensation proposal for Account Gamma by September 25th.
+
+Cameron Ellis: I need to prioritize the bug fixes requested by these accounts by September 26th.
+
+Ava Morgan: Cameron, can you share the product roadmap update with the CS team by September 27th?
+
+Cameron Ellis: Absolutely. Let's reconvene after the recovery calls.

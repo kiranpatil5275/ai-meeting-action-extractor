@@ -1,0 +1,18 @@
+[Meeting: CRM Migration Standup – Sept 20, 2024]
+Participants: Olivia Hart (Data), Ben Carter (Sales Ops)
+
+Olivia Hart: We are two weeks from cutover. Everyone needs clear owners.
+
+Ben Carter: Olivia, can you migrate the customer data to the new CRM by October 12th?
+
+Olivia Hart: Yes. Ben, please train the sales team on the new interface by October 15th.
+
+Ben Carter: Got it. Also create a backup of the current database by October 8th.
+
+Olivia Hart: I'll validate data integrity right after migration, by October 13th.
+
+Ben Carter: And I'll notify our partners of the API changes by October 11th.
+
+Olivia Hart: Finally, I'll update the integration scripts by October 10th.
+
+Ben Carter: Solid plan. Let's keep the daily standups going.

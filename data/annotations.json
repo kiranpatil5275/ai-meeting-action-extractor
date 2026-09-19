@@ -1,0 +1,672 @@
+{
+  "transcript_01": [
+    {
+      "task": "Prepare Q3 budget draft",
+      "owner": "Sarah Chen",
+      "deadline": "2024-09-30",
+      "status": "pending"
+    },
+    {
+      "task": "Schedule follow-up with marketing team",
+      "owner": "Mike Torres",
+      "deadline": "2024-09-25",
+      "status": "pending"
+    },
+    {
+      "task": "Update project timeline in Jira",
+      "owner": "Priya Patel",
+      "deadline": "2024-09-22",
+      "status": "pending"
+    },
+    {
+      "task": "Send client proposal revision",
+      "owner": "James Okonkwo",
+      "deadline": "2024-09-27",
+      "status": "pending"
+    },
+    {
+      "task": "Review legal contract comments",
+      "owner": "Sarah Chen",
+      "deadline": "2024-09-28",
+      "status": "pending"
+    }
+  ],
+  "transcript_02": [
+    {
+      "task": "Finalize onboarding checklist",
+      "owner": "Lisa Wong",
+      "deadline": "2024-10-05",
+      "status": "pending"
+    },
+    {
+      "task": "Order new laptops for interns",
+      "owner": "David Kim",
+      "deadline": "2024-09-28",
+      "status": "pending"
+    },
+    {
+      "task": "Book conference room for training",
+      "owner": "Lisa Wong",
+      "deadline": "2024-09-26",
+      "status": "pending"
+    },
+    {
+      "task": "Create welcome email template",
+      "owner": "Emma Rodriguez",
+      "deadline": "2024-09-30",
+      "status": "pending"
+    },
+    {
+      "task": "Assign mentors to new hires",
+      "owner": "David Kim",
+      "deadline": "2024-10-02",
+      "status": "pending"
+    }
+  ],
+  "transcript_03": [
+    {
+      "task": "Fix authentication bug in production",
+      "owner": "Alex Rivera",
+      "deadline": "2024-09-21",
+      "status": "pending"
+    },
+    {
+      "task": "Write unit tests for payment module",
+      "owner": "Nina Brooks",
+      "deadline": "2024-09-24",
+      "status": "pending"
+    },
+    {
+      "task": "Deploy hotfix to staging",
+      "owner": "Alex Rivera",
+      "deadline": "2024-09-22",
+      "status": "pending"
+    },
+    {
+      "task": "Update API documentation",
+      "owner": "Carlos Mendez",
+      "deadline": "2024-09-27",
+      "status": "pending"
+    },
+    {
+      "task": "Notify customers about downtime window",
+      "owner": "Nina Brooks",
+      "deadline": "2024-09-20",
+      "status": "pending"
+    },
+    {
+      "task": "Review security audit findings",
+      "owner": "Carlos Mendez",
+      "deadline": "2024-09-25",
+      "status": "pending"
+    }
+  ],
+  "transcript_04": [
+    {
+      "task": "Launch social media campaign for product X",
+      "owner": "Jordan Lee",
+      "deadline": "2024-10-01",
+      "status": "pending"
+    },
+    {
+      "task": "Prepare press release draft",
+      "owner": "Samantha Green",
+      "deadline": "2024-09-26",
+      "status": "pending"
+    },
+    {
+      "task": "Coordinate influencer outreach list",
+      "owner": "Jordan Lee",
+      "deadline": "2024-09-29",
+      "status": "pending"
+    },
+    {
+      "task": "Book photography session",
+      "owner": "Samantha Green",
+      "deadline": "2024-09-23",
+      "status": "pending"
+    },
+    {
+      "task": "Set up analytics dashboard",
+      "owner": "Taylor Brooks",
+      "deadline": "2024-09-30",
+      "status": "pending"
+    }
+  ],
+  "transcript_05": [
+    {
+      "task": "Complete performance reviews for team",
+      "owner": "Rachel Adams",
+      "deadline": "2024-10-15",
+      "status": "pending"
+    },
+    {
+      "task": "Update employee handbook section 4",
+      "owner": "Mark Sullivan",
+      "deadline": "2024-10-10",
+      "status": "pending"
+    },
+    {
+      "task": "Schedule one-on-ones with direct reports",
+      "owner": "Rachel Adams",
+      "deadline": "2024-09-30",
+      "status": "pending"
+    },
+    {
+      "task": "Submit Q4 hiring plan",
+      "owner": "Mark Sullivan",
+      "deadline": "2024-10-05",
+      "status": "pending"
+    },
+    {
+      "task": "Organize team offsite logistics",
+      "owner": "Rachel Adams",
+      "deadline": "2024-10-20",
+      "status": "pending"
+    }
+  ],
+  "transcript_06": [
+    {
+      "task": "Migrate customer data to new CRM",
+      "owner": "Olivia Hart",
+      "deadline": "2024-10-12",
+      "status": "pending"
+    },
+    {
+      "task": "Train sales team on new interface",
+      "owner": "Ben Carter",
+      "deadline": "2024-10-15",
+      "status": "pending"
+    },
+    {
+      "task": "Validate data integrity after migration",
+      "owner": "Olivia Hart",
+      "deadline": "2024-10-13",
+      "status": "pending"
+    },
+    {
+      "task": "Create backup of current database",
+      "owner": "Ben Carter",
+      "deadline": "2024-10-08",
+      "status": "pending"
+    },
+    {
+      "task": "Update integration scripts",
+      "owner": "Olivia Hart",
+      "deadline": "2024-10-10",
+      "status": "pending"
+    },
+    {
+      "task": "Notify partners of API changes",
+      "owner": "Ben Carter",
+      "deadline": "2024-10-11",
+      "status": "pending"
+    }
+  ],
+  "transcript_07": [
+    {
+      "task": "Design new homepage mockups",
+      "owner": "Chloe Nguyen",
+      "deadline": "2024-09-28",
+      "status": "pending"
+    },
+    {
+      "task": "Conduct user testing sessions",
+      "owner": "Ethan Park",
+      "deadline": "2024-10-03",
+      "status": "pending"
+    },
+    {
+      "task": "Implement accessibility improvements",
+      "owner": "Chloe Nguyen",
+      "deadline": "2024-10-07",
+      "status": "pending"
+    },
+    {
+      "task": "Prepare design handoff document",
+      "owner": "Ethan Park",
+      "deadline": "2024-09-30",
+      "status": "pending"
+    },
+    {
+      "task": "Align with product on feature priorities",
+      "owner": "Chloe Nguyen",
+      "deadline": "2024-09-25",
+      "status": "pending"
+    }
+  ],
+  "transcript_08": [
+    {
+      "task": "Close Q3 books",
+      "owner": "Grace Kim",
+      "deadline": "2024-10-05",
+      "status": "pending"
+    },
+    {
+      "task": "Prepare board presentation slides",
+      "owner": "Henry Wilson",
+      "deadline": "2024-10-08",
+      "status": "pending"
+    },
+    {
+      "task": "Reconcile expense reports",
+      "owner": "Grace Kim",
+      "deadline": "2024-09-30",
+      "status": "pending"
+    },
+    {
+      "task": "Review vendor invoices",
+      "owner": "Henry Wilson",
+      "deadline": "2024-09-27",
+      "status": "pending"
+    },
+    {
+      "task": "Forecast cash flow for next quarter",
+      "owner": "Grace Kim",
+      "deadline": "2024-10-10",
+      "status": "pending"
+    }
+  ],
+  "transcript_09": [
+    {
+      "task": "Ship v2.3 release candidate",
+      "owner": "Iris Patel",
+      "deadline": "2024-09-24",
+      "status": "pending"
+    },
+    {
+      "task": "Write release notes",
+      "owner": "Jack Thompson",
+      "deadline": "2024-09-23",
+      "status": "pending"
+    },
+    {
+      "task": "Run full regression suite",
+      "owner": "Iris Patel",
+      "deadline": "2024-09-22",
+      "status": "pending"
+    },
+    {
+      "task": "Coordinate beta tester feedback collection",
+      "owner": "Jack Thompson",
+      "deadline": "2024-09-25",
+      "status": "pending"
+    },
+    {
+      "task": "Update changelog and version tags",
+      "owner": "Iris Patel",
+      "deadline": "2024-09-24",
+      "status": "pending"
+    },
+    {
+      "task": "Prepare rollback plan",
+      "owner": "Jack Thompson",
+      "deadline": "2024-09-23",
+      "status": "pending"
+    }
+  ],
+  "transcript_10": [
+    {
+      "task": "Negotiate new office lease terms",
+      "owner": "Karen Brooks",
+      "deadline": "2024-10-20",
+      "status": "pending"
+    },
+    {
+      "task": "Get quotes from three moving companies",
+      "owner": "Leo Martinez",
+      "deadline": "2024-10-05",
+      "status": "pending"
+    },
+    {
+      "task": "Survey team on preferred amenities",
+      "owner": "Karen Brooks",
+      "deadline": "2024-09-30",
+      "status": "pending"
+    },
+    {
+      "task": "Draft space requirements document",
+      "owner": "Leo Martinez",
+      "deadline": "2024-10-02",
+      "status": "pending"
+    },
+    {
+      "task": "Schedule site visits",
+      "owner": "Karen Brooks",
+      "deadline": "2024-10-08",
+      "status": "pending"
+    }
+  ],
+  "transcript_11": [
+    {
+      "task": "Investigate customer churn spike",
+      "owner": "Mia Foster",
+      "deadline": "2024-09-26",
+      "status": "pending"
+    },
+    {
+      "task": "Run cohort analysis for last 90 days",
+      "owner": "Noah Ellis",
+      "deadline": "2024-09-25",
+      "status": "pending"
+    },
+    {
+      "task": "Interview five churned customers",
+      "owner": "Mia Foster",
+      "deadline": "2024-09-28",
+      "status": "pending"
+    },
+    {
+      "task": "Propose retention experiment",
+      "owner": "Noah Ellis",
+      "deadline": "2024-10-01",
+      "status": "pending"
+    },
+    {
+      "task": "Share findings with product team",
+      "owner": "Mia Foster",
+      "deadline": "2024-09-30",
+      "status": "pending"
+    }
+  ],
+  "transcript_12": [
+    {
+      "task": "Complete SOC 2 evidence collection",
+      "owner": "Paula Reed",
+      "deadline": "2024-10-15",
+      "status": "pending"
+    },
+    {
+      "task": "Update access control policy",
+      "owner": "Quinn Hayes",
+      "deadline": "2024-10-05",
+      "status": "pending"
+    },
+    {
+      "task": "Schedule penetration test",
+      "owner": "Paula Reed",
+      "deadline": "2024-09-28",
+      "status": "pending"
+    },
+    {
+      "task": "Train staff on new security procedures",
+      "owner": "Quinn Hayes",
+      "deadline": "2024-10-12",
+      "status": "pending"
+    },
+    {
+      "task": "Document incident response playbook",
+      "owner": "Paula Reed",
+      "deadline": "2024-10-10",
+      "status": "pending"
+    },
+    {
+      "task": "Review third-party vendor risk assessments",
+      "owner": "Quinn Hayes",
+      "deadline": "2024-10-08",
+      "status": "pending"
+    }
+  ],
+  "transcript_13": [
+    {
+      "task": "Finalize speaker list for summit",
+      "owner": "Riley Scott",
+      "deadline": "2024-10-01",
+      "status": "pending"
+    },
+    {
+      "task": "Book venue and catering",
+      "owner": "Samir Joshi",
+      "deadline": "2024-09-27",
+      "status": "pending"
+    },
+    {
+      "task": "Open ticket sales page",
+      "owner": "Riley Scott",
+      "deadline": "2024-09-30",
+      "status": "pending"
+    },
+    {
+      "task": "Design event branding assets",
+      "owner": "Samir Joshi",
+      "deadline": "2024-09-25",
+      "status": "pending"
+    },
+    {
+      "task": "Coordinate volunteer sign-up",
+      "owner": "Riley Scott",
+      "deadline": "2024-10-05",
+      "status": "pending"
+    }
+  ],
+  "transcript_14": [
+    {
+      "task": "Refactor legacy billing module",
+      "owner": "Tina Wu",
+      "deadline": "2024-10-18",
+      "status": "pending"
+    },
+    {
+      "task": "Add feature flag for new pricing",
+      "owner": "Uma Sharma",
+      "deadline": "2024-10-02",
+      "status": "pending"
+    },
+    {
+      "task": "Write migration scripts",
+      "owner": "Tina Wu",
+      "deadline": "2024-10-10",
+      "status": "pending"
+    },
+    {
+      "task": "Coordinate with finance on cutover date",
+      "owner": "Uma Sharma",
+      "deadline": "2024-09-28",
+      "status": "pending"
+    },
+    {
+      "task": "Update customer-facing pricing page",
+      "owner": "Tina Wu",
+      "deadline": "2024-10-15",
+      "status": "pending"
+    }
+  ],
+  "transcript_15": [
+    {
+      "task": "Launch employee wellness program",
+      "owner": "Victor Lopez",
+      "deadline": "2024-10-20",
+      "status": "pending"
+    },
+    {
+      "task": "Select vendor for mental health app",
+      "owner": "Wendy Chen",
+      "deadline": "2024-10-05",
+      "status": "pending"
+    },
+    {
+      "task": "Create internal communication plan",
+      "owner": "Victor Lopez",
+      "deadline": "2024-10-08",
+      "status": "pending"
+    },
+    {
+      "task": "Budget approval for gym subsidies",
+      "owner": "Wendy Chen",
+      "deadline": "2024-09-30",
+      "status": "pending"
+    },
+    {
+      "task": "Pilot program with engineering team",
+      "owner": "Victor Lopez",
+      "deadline": "2024-10-15",
+      "status": "pending"
+    },
+    {
+      "task": "Collect baseline survey responses",
+      "owner": "Wendy Chen",
+      "deadline": "2024-10-01",
+      "status": "pending"
+    }
+  ],
+  "transcript_16": [
+    {
+      "task": "Prepare executive summary for Account Alpha",
+      "owner": "Ava Morgan",
+      "deadline": "2024-09-24",
+      "status": "pending"
+    },
+    {
+      "task": "Schedule recovery call with Account Beta",
+      "owner": "Blake Turner",
+      "deadline": "2024-09-23",
+      "status": "pending"
+    },
+    {
+      "task": "Draft compensation proposal for Account Gamma",
+      "owner": "Blake Turner",
+      "deadline": "2024-09-25",
+      "status": "pending"
+    },
+    {
+      "task": "Prioritize bug fixes requested by enterprise accounts",
+      "owner": "Cameron Ellis",
+      "deadline": "2024-09-26",
+      "status": "pending"
+    },
+    {
+      "task": "Share product roadmap update with CS team",
+      "owner": "Cameron Ellis",
+      "deadline": "2024-09-27",
+      "status": "pending"
+    }
+  ],
+  "transcript_17": [
+    {
+      "task": "Produce detailed cost breakdown by service",
+      "owner": "Dana Foster",
+      "deadline": "2024-09-26",
+      "status": "pending"
+    },
+    {
+      "task": "Identify top five cost optimization opportunities",
+      "owner": "Elliot Grant",
+      "deadline": "2024-09-28",
+      "status": "pending"
+    },
+    {
+      "task": "Right-size the staging clusters",
+      "owner": "Fiona Walsh",
+      "deadline": "2024-10-02",
+      "status": "pending"
+    },
+    {
+      "task": "Implement reserved instance plan",
+      "owner": "Fiona Walsh",
+      "deadline": "2024-10-05",
+      "status": "pending"
+    },
+    {
+      "task": "Set up budget alerts in monitoring dashboard",
+      "owner": "Fiona Walsh",
+      "deadline": "2024-09-25",
+      "status": "pending"
+    }
+  ],
+  "transcript_18": [
+    {
+      "task": "Finalize term sheet for Partner A",
+      "owner": "Gabriel Ortiz",
+      "deadline": "2024-10-03",
+      "status": "pending"
+    },
+    {
+      "task": "Review NDA for Partner B",
+      "owner": "Hannah Price",
+      "deadline": "2024-09-27",
+      "status": "pending"
+    },
+    {
+      "task": "Prepare compliance checklist for Partner C",
+      "owner": "Hannah Price",
+      "deadline": "2024-10-01",
+      "status": "pending"
+    },
+    {
+      "task": "Create co-marketing plan for Partner D",
+      "owner": "Ian Cole",
+      "deadline": "2024-10-05",
+      "status": "pending"
+    },
+    {
+      "task": "Schedule joint webinar with Partner A",
+      "owner": "Ian Cole",
+      "deadline": "2024-10-08",
+      "status": "pending"
+    }
+  ],
+  "transcript_19": [
+    {
+      "task": "Finalize offline sync architecture",
+      "owner": "Jade Rivera",
+      "deadline": "2024-09-28",
+      "status": "pending"
+    },
+    {
+      "task": "Implement iOS offline cache",
+      "owner": "Kyle Bennett",
+      "deadline": "2024-10-04",
+      "status": "pending"
+    },
+    {
+      "task": "Implement Android offline cache",
+      "owner": "Lena Soto",
+      "deadline": "2024-10-04",
+      "status": "pending"
+    },
+    {
+      "task": "Write push notification A/B test plan",
+      "owner": "Lena Soto",
+      "deadline": "2024-09-30",
+      "status": "pending"
+    },
+    {
+      "task": "Update release notes draft",
+      "owner": "Lena Soto",
+      "deadline": "2024-10-02",
+      "status": "pending"
+    }
+  ],
+  "transcript_20": [
+    {
+      "task": "Publish updated diversity dashboard",
+      "owner": "Maya Brooks",
+      "deadline": "2024-10-10",
+      "status": "pending"
+    },
+    {
+      "task": "Launch mentorship matching program",
+      "owner": "Noah Kim",
+      "deadline": "2024-10-15",
+      "status": "pending"
+    },
+    {
+      "task": "Sponsor first leadership listening session",
+      "owner": "Olivia Tran",
+      "deadline": "2024-10-05",
+      "status": "pending"
+    },
+    {
+      "task": "Approve budget for ERG annual summit",
+      "owner": "Olivia Tran",
+      "deadline": "2024-09-30",
+      "status": "pending"
+    },
+    {
+      "task": "Collect baseline inclusion survey responses",
+      "owner": "Noah Kim",
+      "deadline": "2024-10-08",
+      "status": "pending"
+    }
+  ]
+}

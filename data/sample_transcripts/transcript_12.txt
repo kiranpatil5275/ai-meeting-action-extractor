@@ -1,0 +1,16 @@
+[Meeting: Security & Compliance – Sept 20, 2024]
+Participants: Paula Reed (Security), Quinn Hayes (Compliance)
+
+Paula Reed: SOC 2 audit is in six weeks. Evidence collection is the bottleneck.
+
+Quinn Hayes: Paula, can you complete the SOC 2 evidence collection by October 15th?
+
+Paula Reed: Yes. Quinn, please update the access control policy by October 5th.
+
+Quinn Hayes: Will do. I'll also train staff on the new security procedures by October 12th.
+
+Paula Reed: I need to schedule the penetration test by September 28th and document the incident response playbook by October 10th.
+
+Quinn Hayes: And I'll review the third-party vendor risk assessments by October 8th.
+
+Paula Reed: Great. Let's stay on schedule.

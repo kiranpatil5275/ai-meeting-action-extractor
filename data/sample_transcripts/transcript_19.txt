@@ -1,0 +1,16 @@
+[Meeting: Mobile App Sprint Planning – Sept 22, 2024]
+Participants: Jade Rivera (Mobile Lead), Kyle Bennett (iOS), Lena Soto (Android)
+
+Jade Rivera: Sprint goal is to ship offline mode and push notification improvements.
+
+Kyle Bennett: Jade, can you finalize the offline sync architecture by September 28th?
+
+Jade Rivera: Yes. Kyle, please implement the iOS offline cache by October 4th.
+
+Kyle Bennett: On it. Lena, can you implement the Android offline cache by October 4th as well?
+
+Lena Soto: Will do. I'll also write the push notification A/B test plan by September 30th.
+
+Jade Rivera: Lena, please update the release notes draft by October 2nd.
+
+Lena Soto: Done. Let's keep the daily standups focused.

@@ -1,0 +1,14 @@
+[Meeting: Billing Platform Refactor – Sept 20, 2024]
+Participants: Tina Wu (Engineering), Uma Sharma (Product)
+
+Tina Wu: The legacy billing module is blocking new pricing experiments.
+
+Uma Sharma: Tina, can you refactor the legacy billing module by October 18th?
+
+Tina Wu: Yes. Uma, please add the feature flag for new pricing by October 2nd.
+
+Uma Sharma: Will do. I'll also coordinate with finance on the cutover date by September 28th.
+
+Tina Wu: I need to write the migration scripts by October 10th and update the customer-facing pricing page by October 15th.
+
+Uma Sharma: Perfect. Let's keep the risk log updated.

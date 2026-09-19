@@ -1,0 +1,22 @@
+[Meeting: Product & Finance Sync – Sept 18, 2024]
+Participants: Sarah Chen (PM), Mike Torres (Marketing), Priya Patel (Engineering), James Okonkwo (Sales)
+
+Sarah Chen: Good morning everyone. Let's start with the Q3 numbers. We need the budget draft ready soon.
+
+Mike Torres: Agreed. Sarah, can you prepare the Q3 budget draft by the end of the month, September 30th?
+
+Sarah Chen: Yes, I'll take that. Mike, could you schedule a follow-up with the marketing team for next week, say by September 25th?
+
+Mike Torres: Sure, I'll get that on the calendar.
+
+Priya Patel: On the engineering side, I need to update the project timeline in Jira. I'll do that by this Sunday, September 22nd.
+
+James Okonkwo: Perfect. I'll send the revised client proposal by September 27th.
+
+Sarah Chen: Thanks James. Also, I still need to review the legal contract comments. I'll finish that by September 28th.
+
+Mike Torres: Any other open items before we wrap?
+
+Priya Patel: Nothing else from me.
+
+Sarah Chen: Great. Let's reconvene next week.

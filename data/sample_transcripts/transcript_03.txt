@@ -1,0 +1,18 @@
+[Meeting: Engineering Incident Review – Sept 19, 2024]
+Participants: Alex Rivera (Backend), Nina Brooks (QA), Carlos Mendez (DevOps)
+
+Alex Rivera: The authentication bug that hit production yesterday is critical. I'll fix it by tomorrow, September 21st.
+
+Nina Brooks: Good. Alex, after the fix, can you deploy the hotfix to staging by September 22nd?
+
+Alex Rivera: Yes.
+
+Nina Brooks: I'll write the unit tests for the payment module by September 24th.
+
+Carlos Mendez: I'll update the API documentation by September 27th.
+
+Nina Brooks: We also need to notify customers about the planned downtime window. I'll handle that by September 20th.
+
+Carlos Mendez: And I'll review the security audit findings by September 25th.
+
+Alex Rivera: Thanks everyone. Let's stay on top of this.

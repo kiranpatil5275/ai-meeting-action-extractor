@@ -1,0 +1,14 @@
+[Meeting: Growth Analytics – Sept 19, 2024]
+Participants: Mia Foster (Growth), Noah Ellis (Data Science)
+
+Mia Foster: Churn jumped 18% last month. We need answers quickly.
+
+Noah Ellis: Mia, can you investigate the customer churn spike by September 26th?
+
+Mia Foster: Yes. Noah, please run the cohort analysis for the last 90 days by September 25th.
+
+Noah Ellis: On it. I'll also propose a retention experiment by October 1st.
+
+Mia Foster: I need to interview five churned customers by September 28th and share findings with the product team by September 30th.
+
+Noah Ellis: Let's reconvene after the interviews.
