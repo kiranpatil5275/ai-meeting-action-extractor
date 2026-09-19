@@ -109,7 +109,7 @@ This loads the 20 sample transcripts + gold annotations and reports:
 - Hyperparameter tuning → see `src/extractor.py` (thresholds are configurable)
 
 
-##Future improvements
+##Next improvements
 1.Speaker Diarization--Automatically detect “who spoke when” from audio (using pyannote.audio) so you don’t need pre-written speaker names
 2.Audio → Text Support--Upload .mp3 / .wav meeting recordings and convert them to transcript using Whisper (offline)
 3.Better Date Understanding--Improve relative dates like “next Friday”, “end of next week”, “in 3 days”
