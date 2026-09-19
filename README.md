@@ -45,34 +45,38 @@ ai-meeting-action-extractor/
 ├── app.py                           # Streamlit interface
 ├── requirements.txt
 └── README.md
-```
 
+```
 ## Quick Start
 
 ```bash
-# 1. Create virtual environment (recommended)
+# 1. Create virtual environment
 python -m venv venv
-source venv/bin/activate          # Windows: venv\Scripts\activate
+
+# Windows
+venv\Scripts\activate
+
+# macOS / Linux
+source venv/bin/activate
 
 # 2. Install dependencies
 pip install -r requirements.txt
-
-# 3. Download spaCy English model
 python -m spacy download en_core_web_sm
 
-# 4. Run the Streamlit app
+# 3. Run the app
 streamlit run app.py
-```
-
 The first run will download the zero-shot model (`facebook/bart-large-mnli` ≈ 1.6 GB). Subsequent runs are offline.
 
-## Using the App
 
-1. Open the browser tab that Streamlit opens.
-2. Either **upload a .txt transcript** or **paste text**.
-3. Click **Extract Action Items**.
-4. Review the table. Rows with low confidence or missing fields are highlighted.
-5. Download results as CSV if desired.
+##How to Use the App
+
+Choose a sample transcript from the sidebar or
+Upload a .txt file or
+Paste any meeting transcript
+Click Extract Action Items
+Review the color-coded table
+Download results as CSV / JSON / Markdown
+
 
 ## Evaluation
 
@@ -104,6 +108,21 @@ This loads the 20 sample transcripts + gold annotations and reports:
 - Export to Jira / Notion / CSV → already supported via pandas
 - Hyperparameter tuning → see `src/extractor.py` (thresholds are configurable)
 
-## License
 
+##(future improvements)
+1,Speaker Diarization,Automatically detect “who spoke when” from audio (using pyannote.audio) so you don’t need pre-written speaker names
+2,Audio → Text Support,Upload .mp3 / .wav meeting recordings and convert them to transcript using Whisper (offline)
+3,Better Date Understanding,"Improve relative dates like “next Friday”, “end of next week”, “in 3 days”"
+4,Edit & Confirm UI,Let users edit extracted action items directly in the Streamlit table before exporting
+5,Save History,Save previous extractions so users can go back and review old meetings
+
+
+## License
 MIT – free for any use.
+
+
+##Auther
+---
+Developed by **Kiran patil**
+
+
